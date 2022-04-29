@@ -1,0 +1,29 @@
+{
+    "name": "Vivaan, Bhuvan",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Vivaan, Bhuvan": "github:unknownentity78/vivaan-bhuvan#master",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
